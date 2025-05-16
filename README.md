@@ -22,7 +22,7 @@
 - Integrate robust forecasting and risk management workflows
 - Communicate results with high-impact, interactive visuals
 
-Originally developed by **Jake Ransom** for the Rabsamen Trust at the University of Arkansas, it is now a comprehensive, extensible dashboard for quick sector rotation research.
+Originally developed by **Jake Ransom** for the Rebsamen Trust at the University of Arkansas, it is now a comprehensive, extensible dashboard for quick sector rotation research.
 
 ---
 
