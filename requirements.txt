@@ -1,0 +1,16 @@
+streamlit
+python-dotenv
+requests
+plotly
+pandas
+pandas_ta
+vectorbt
+darts
+prophet
+statsmodels
+scikit-learn
+networkx
+hurst
+seaborn
+numpy
+scipy
